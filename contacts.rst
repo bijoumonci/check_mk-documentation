@@ -1,6 +1,6 @@
 Contacts
 ==========
-Check_MK has the concept of Contacts, Contact Groups and Roles. With OMD you will have one admin user created automatically with the initial site creation. The default admin username is omd and the default password is omdadmin (change these after your initial login).
+Check_MK has the concept of Contacts, Contact Groups and Roles. With OMD you will have one admin user created automatically with the initial site creation. The default admin username is omdadmin and the default password is omd (change these after your initial login).
 
 Contacts are managed via WATO. Before you create a new user you should first think about how your users and hosts are organized and how they will use the site.
 
